@@ -11,8 +11,8 @@
   "author": "Tarjei N Ylvisåker",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
     "mongoose": "^5.4.21",
     "snyk": "^1.224.0"
   },
